@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597503411 source:c:\users\hp\desktop\delimiter project\main.c
+
+1597503388 source:c:\users\hp\desktop\delimiter project\delimiter.c
+	<stdio.h>
+	<string.h>
+
