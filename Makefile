@@ -1,6 +1,6 @@
 SRC = unity/unity.c\
-src/factorial.c\
-test/test_factorial.c\
+src/delimiter.c\
+te
 main.c
 
 INC = -Iunity\
